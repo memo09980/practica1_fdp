@@ -29,3 +29,7 @@ Consiste en:
 
 BIBLIOGRAFÍA
 •	Algoritmos y programas. Joan Vancells. Editorial UOC. 2002
+
+Ecuacíon de la flor
+Gráfico de:
+100-​3/​sqrt(​x^​2+​y^​2)+​sin(​sqrt(​x^​2+​y^​2))+​sqrt(​200-​x^​2+​y^​2+​10*​sin(​x)+​10*​sin(​y))/​1000
