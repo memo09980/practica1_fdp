@@ -7,3 +7,18 @@ Pero si por algo pasó a la historia de la informática Ada Lovelace fue por ent
 Los trabajos de Ada Lovelace continúan vigentes en la actualidad, hasta el punto de que en importantes museos de informática, como el de San Diego se le continúa rindiendo tributo.
 Su progresión en sus estudios se vio interrumpida por la maternidad. A los veinte años Ada Lovelace contrajo matrimonio con William King, Conde de Lovelace. Nace de ahí el nombre de Lady Ada Lovelace, por el que es conocida en la actualidad. A su lado tuvo tres hijos: Bryon Noel Byron, Annabella y Ralph Gordon. Ada Lovelace murió de cáncer el 27 de noviembre de 1852.
 
+ALGORITMO
+Un algoritmo consiste en una lista ordenada de operaciones que tienen el propósito de buscar la solución a un problema en matemática, informática y disciplinas afines.
+Para las ciencias de la matemática y de la computación, un algoritmo es una lista que, dado un estado inicial y una entrada, propone pasos sucesivos para arribar a un estado final obteniendo una solución. Sin embargo, el algoritmo no es excluyente de las ciencias duras o matemáticas. También en la vida cotidiana se emplean este tipo de operatorias casi sin notarlo: por ejemplo, en los instructivos o manuales de usuario que incluyen ejemplos de resolución de problemas técnicos. 
+
+“Técnica de diseño de algoritmos DIVIDE Y VENCERÁS”
+Consiste en:
+•	Descomponer el ejemplar a resolver en un cierto número de subejemplares más pequeños del mismo problema.
+
+•	Resolver independientemente cada subejemplar
+
+•	Combinar los resultados obtenidos para construir la solución del ejemplar original.
+
+
+BIBLIOGRAFÍA
+•	Algoritmos y programas. Joan Vancells. Editorial UOC. 2002
